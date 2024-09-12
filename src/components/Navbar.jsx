@@ -59,7 +59,7 @@ const Navbar = ({ menuIdx }) => {
         <div className="logo"></div>
         <h2 className="font-semibold text-xl">
           <Link to="/" className="font-customFontKr">
-            sion
+            038083159
           </Link>
         </h2>
       </div>
